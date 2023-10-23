@@ -1,0 +1,9 @@
+a<-c(1:3)
+b<-c("a","b","c")
+c<-c(TRUE,FALSE)
+A<-typeof(a)
+B<-typeof(b)
+C<-typeof(c)
+A
+B
+C
