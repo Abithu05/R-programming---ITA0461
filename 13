@@ -1,0 +1,5 @@
+n<-10
+r<-rnorm(n,mean = 0,sd = 1)
+c<-table(round(r,2))
+print(r)
+print(c)
